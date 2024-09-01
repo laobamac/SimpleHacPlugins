@@ -22,3 +22,11 @@ Tested in Sonoma14.5,the 2.5G rate and virtual machine's network works!
 Download in release page or SimpleHac bbs↓<br>
 Releases:<a href="https://github.com/laobamac/SakuraPlugins/releases">Click Here!</a><br>
 SimpleHac:<a href="https://www.simplehac.cn">Click Here!</a>
+
+## SakuraXGBE
+<strong><p><em>A Lilu plugin to inject driver for Intel8259X</em></p></strong>
+Testing,Non-Download.
+
+## SakuraLexa
+<strong><p><em>A Lilu plugin to inject driver for RX5300/RX550</em></p></strong>
+Developping,Non-Download.
