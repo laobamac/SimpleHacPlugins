@@ -12,3 +12,8 @@ Some Lilu plugins to inject drivers for a few hardwares.
   </a>
 </div>
 </div>
+<br>
+## SakuraEthernet
+<p><em>A Lilu plugin to inject driver for i225/226/210/211</em></p>
+Put it into EFI/OC/Kexts and enable it,then reboot your pc.
+Tested in Sonoma14.5,the 2.5G rate and virtual machine's network works!
