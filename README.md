@@ -24,9 +24,9 @@ Download in release page or SimpleHac bbs↓<br>
 Releases:<a href="https://github.com/laobamac/SakuraPlugins/releases">Click Here!</a><br>
 SimpleHac:<a href="https://www.simplehac.cn">Click Here!</a>
 
-## SakuraXGBE
-<strong><p><em>A Lilu plugin to inject driver for Intel8259X</em></p></strong>
-Testing,Non-Download.
+### SakuraLegacyFix
+<strong><p><em>A Lilu plugin to inject driver for IntelI350/X540</em></p></strong>
+Testing,Non-Download.Will merge in SakuraEthernet.
 
 ## SakuraLexa
 <strong><p><em>A Lilu plugin to inject driver for RX5300/RX550</em></p></strong>
