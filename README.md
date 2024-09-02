@@ -22,7 +22,7 @@ Put it into EFI/OC/Kexts and enable it,then reboot your pc.<br>
 Tested in Sonoma14.5,the 2.5G rate and virtual machine's network works!
 Download in release page or SimpleHac bbs↓<br>
 Releases:<a href="https://github.com/laobamac/SakuraPlugins/releases">Click Here!</a><br>
-SimpleHac:<a href="https://www.simplehac.cn">Click Here!</a>
+SimpleHac:<a href="https://www.simplehac.cn/forum.php?mod=viewthread&tid=42">Click Here!</a>
 
 ### SakuraLegacyFix
 <strong><p><em>A Lilu plugin to inject driver for IntelI350/X540</em></p></strong>
