@@ -31,3 +31,6 @@ Testing,Non-Download.Will merge in SakuraEthernet.
 ## SakuraLexa
 <strong><p><em>A Lilu plugin to inject driver for RX5300/RX550</em></p></strong>
 Developping,Non-Download.
+
+# Thanks
+①**lynx helped to develop SakuraEthernetRewriter.**
