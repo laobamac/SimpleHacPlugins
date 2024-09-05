@@ -34,4 +34,4 @@ Testing,Non-Download.Will merge in SakuraEthernet.
 Developping,Non-Download.
 
 # Thanks
-①**lynx helped to develop SakuraEthernetRewriter.**
+①**lynx helped to develop SimpleEthernetRewriter.**
