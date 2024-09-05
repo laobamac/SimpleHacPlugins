@@ -1,7 +1,8 @@
-# SakuraPlugins
+# SimpleHacPlugins
+# SakuraPlugins(Original)
 Some Lilu plugins to inject drivers for a few hardwares.
 <div align="center">
-  <a href="https://github.com/laobamac"><img width="100px" alt="logo" src="https://github.com/laobamac/SakuraPlugins/raw/main/sakura.svg"/></a>
+  <a href="https://github.com/laobamac"><img width="100px" alt="logo" src="https://github.com/laobamac/SakuraPlugins/raw/main/simple.svg"/></a>
   <p><em>🖥Some Lilu plugins for Hackintosh devices, powered by laobamac && SimpleHac Team.</em></p>
 <div>
   <a href="https://github.com/laobamac/SakuraPlugins/blob/main/LICENSE">
@@ -14,7 +15,7 @@ Some Lilu plugins to inject drivers for a few hardwares.
 </div>
 <br>
 
-## SakuraEthernet
+## SimpleEthernet
 <strong><p><em>A Lilu plugin to inject driver for i225/226/210/211</em></p></strong>
 
 Put it into EFI/OC/Kexts and enable it,then reboot your pc.<br>
@@ -28,7 +29,7 @@ SimpleHac:<a href="https://www.simplehac.cn/forum.php?mod=viewthread&tid=42">Cli
 <strong><p><em>A Lilu plugin to inject driver for IntelI350/X540</em></p></strong>
 Testing,Non-Download.Will merge in SakuraEthernet.
 
-## SakuraLexa
+## SimpleLexa
 <strong><p><em>A Lilu plugin to inject driver for RX5300/RX550</em></p></strong>
 Developping,Non-Download.
 
